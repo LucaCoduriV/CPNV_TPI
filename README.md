@@ -1,2 +1,7 @@
-# CPNV_TPI
-TPI dans le cadre du CPNV
+# TPI CPNV
+## Auteur ##
+Luca Coduri
+## Version ##
+30.04.2020 : 0.1
+## Description ##
+TPI CPNV
